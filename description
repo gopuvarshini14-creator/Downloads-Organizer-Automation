@@ -1,0 +1,15 @@
+The Downloads Organizer is an automation project built using Accomplish.ai that helps keep your Downloads folder neat and organized. It automatically scans the folder, categorizes files based on their type (Documents, Images, Videos, Installers, and Others), and moves them into separate folders.
+
+This saves time, reduces clutter, and ensures that all your files are easy to find. A log is also created to show which files were moved. The automation can be run anytime new files are added to the Downloads folder, making file management effortless and fully automated.
+
+Key Features:
+
+Automatically scans the Downloads folder.
+
+Categorizes files by type.
+
+Moves files into organized folders.
+
+Maintains a log of moved files.
+
+Reduces manual file management and clutter. 
